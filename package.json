@@ -1,0 +1,5 @@
+{
+  "name": "@types/vuex-i18n",
+  "version": "1.7.0",
+  "main": "index.d.ts"
+}
